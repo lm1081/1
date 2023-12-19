@@ -1,10 +1,10 @@
 ﻿{
     "spider": "https://github.com/franksun1211/TVBOX/blob/main/APP/JAR/E8plus.jar?raw=true",
     "sites": [
-        { "key": "KxrbspE", "name": "(18+)淫水机资源", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-
         { "key": "gdlsE", "name": "(18+)香奶儿资源", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-        
+
+       { "key": "KxrbspE", "name": "(18+)淫水机资源", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+     
         { "key": "kxgav", "name": "(18+)白嫖资源", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
         
         { "key": "afasu", "name": "(18+)小湿妹资源", "type": 0, "api": "https://www.afasu.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
